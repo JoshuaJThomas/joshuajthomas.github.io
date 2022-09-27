@@ -523,7 +523,7 @@ main { overflow-x: hidden; }
   height: 60px;
   display: grid;
   place-items: center;
-  border-radius: 10%;
+  border-radius: 50%;
 }
 
 .stats-card .card-icon img {
